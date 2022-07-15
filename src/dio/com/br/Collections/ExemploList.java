@@ -4,6 +4,9 @@ import java.util.*;
 
 //Estudo e compreensão dos principais métodos da Interface List:
 
+// Dada uma lista com 7 notas de um aluno [7, 8.5, 9.3, 5, 7, 0, 3.6], faça:
+
+
 public class ExemploList {
     public static void main(String[] args) {
 
