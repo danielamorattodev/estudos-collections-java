@@ -1,4 +1,4 @@
-package dio.com.br.Collections;
+package dio.com.br.Collections.List;
 
 /*Dadas as seguintes informações sobre meus gatos, crie uma lista
 e ordene esta lista exibindo:

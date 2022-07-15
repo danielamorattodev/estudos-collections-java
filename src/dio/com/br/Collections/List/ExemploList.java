@@ -1,4 +1,4 @@
-package dio.com.br.Collections;
+package dio.com.br.Collections.List;
 
 import java.util.*;
 
